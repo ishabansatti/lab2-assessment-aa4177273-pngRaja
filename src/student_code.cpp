@@ -32,7 +32,11 @@ Convert Fahrenheit to Celsius and store your answer in a variable celsius.
 Formula:
     Celsius = (Fahrenheit - 32) * 5 / 9
 */
+
 float fahrenheitToCelsius(float fahrenheit) {
     //return celsius;
+    float celcius;
+    Celsius = (Fahrenheit - 32) * 5 / 9
+        return celcius;
 
 }
